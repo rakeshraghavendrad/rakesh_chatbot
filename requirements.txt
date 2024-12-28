@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+graphviz
+llama-index
+spacy
+neo4j
+sentence-transformers
+ipython
